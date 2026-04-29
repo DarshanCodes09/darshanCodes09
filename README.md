@@ -5,7 +5,7 @@
 
   <!-- Static Tagline -->
   <p style="font-size:18px; margin-top: 10px;">
-    I let machines do the boring stuff :) </br>
+    I let machines do the boring stuff :)) </br>
     So that I can focus on the weird and wonderful.
   </p>
 
