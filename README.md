@@ -72,7 +72,7 @@ Building projects, contributing to communities, and exploring real-world tech fr
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchaindotcom&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
----
+
 <div align="center">
 
 ## 📈 GitHub Contribution Activity
@@ -84,7 +84,6 @@ Building projects, contributing to communities, and exploring real-world tech fr
 </picture>
 
 </div>
----
 
 <div align="center">
   <sub>Always learning · Always shipping · Let's build something great 🚀</sub>
