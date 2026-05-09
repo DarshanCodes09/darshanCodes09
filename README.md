@@ -5,17 +5,15 @@
 <h1>Darshan Kushalkar</h1>
 
 <p>
-  <b>Fullstack developer </b> &nbsp;·&nbsp; <b>GSSoc 26</b> &nbsp;·&nbsp; <b>Student @IIIT DHARWAD</b>
+  <b>Fullstack developer </b> &nbsp;·&nbsp; <b>GSSoc'26</b> &nbsp;·&nbsp; <b>Student @ IIIT DHARWAD</b>
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/dhruvieiei/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/darshan-kushalkar-2919aa234/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="https://x.com/StackDhruv"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white"/></a>
+  <a href="https://x.com/thedarshan_dev"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white"/></a>
   &nbsp;
-  <a href="https://medium.com/@dhruvieiei"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=flat-square&logo=medium&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://github.com/dhruvxop19"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:darshan.kushal321@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/> </a>
 </p>
 
 </div>
@@ -26,13 +24,12 @@
 
 ### 👨‍💻 About Me
 
-👨‍💻 About Me
 Second-year B.Tech student passionate about AI, full-stack development & open source.
 Building projects, contributing to communities, and exploring real-world tech from day one.
 
-🛠 Open Source Contributor @ GSSoC ’26 & SSoC Season 5
-💻 DSAI Student @ IIIT Dharwad
-🚀 Freelance Developer 
+- 🛠 **Open Source Contributor** @ GSSoC ’26 & SSoC Season 5
+- 💻 **CSE Student** @ IIIT Dharwad
+- 🚀 Freelance Developer 
 
 ---
 
@@ -73,18 +70,27 @@ Building projects, contributing to communities, and exploring real-world tech fr
 ![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
 
+
 <div align="center">
 
-## 📈 GitHub Contribution Activity
+### 📈 GitHub Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarshanCodes09/DarshanCodes09/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarshanCodes09/DarshanCodes09/output/github-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/DarshanCodes09/DarshanCodes09/output/github-snake.svg">
-</picture>
+
+<img src="https://github.com/DarshanCodes09/DarshanCodes09/blob/output/github-snake-dark.svg?raw=true" alt="snake animation" />
+
+
 
 </div>
 
+---
+
+<br>
+
 <div align="center">
-  <sub>Always learning · Always shipping · Let's build something great 🚀</sub>
+
+Always learning · Always shipping · Let’s build something great 🚀
+
+</div>
+
+
 </div>
