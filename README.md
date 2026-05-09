@@ -71,7 +71,7 @@ Building projects, contributing to communities, and exploring real-world tech fr
 
 
 
-<div align="center">
+
 
 ### 📈 GitHub Contribution Activity
 
@@ -80,7 +80,6 @@ Building projects, contributing to communities, and exploring real-world tech fr
 
 
 
-</div>
 
 ---
 
