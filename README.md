@@ -73,7 +73,7 @@ Building projects, contributing to communities, and exploring real-world tech fr
 ![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
 ---
-### 📊 GitHub Stats
+### 📊 GitHub activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarshanCodes09/DarshanCodes09/output/github-snake-dark.svg" />
