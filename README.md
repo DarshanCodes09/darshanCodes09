@@ -2,7 +2,7 @@
 
 <img src="https://github.com/dhruvxop19.png" width="110" style="border-radius:50%;border:3px solid #7c3aed" />
 
-<h1>Darshan Kushalkar</h1>
+<h1> Darshan Kushalkar </h1>
 
 <p>
   <b>Fullstack developer </b> &nbsp;·&nbsp; <b>GSSoc'26</b> &nbsp;·&nbsp; <b>Student @ IIIT DHARWAD</b>
