@@ -27,7 +27,7 @@
 Second-year B.Tech student passionate about AI, full-stack development & open source.
 Building projects, contributing to communities, and exploring real-world tech from day one.
 
-- 🛠 **Open Source Contributor** @ GSSoC ’26 & SSoC Season 5
+- 🛠 **Open Source Contributor** @ GSSoC ’26
 - 💻 **CSE Student** @ IIIT Dharwad
 - 🚀 Freelance Developer 
 
