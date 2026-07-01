@@ -14,6 +14,10 @@
   <a href="https://x.com/thedarshan_dev"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white"/></a>
   &nbsp;
   <a href="mailto:darshan.kushal321@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/> </a>
+  &nbsp;
+  <a href="https://www.thedarshan.space/" target="_blank">
+  <img src="https://cdn.simpleicons.org/googlechrome/white" width="20" height="20" alt="Portfolio"/>
+</a>
 </p>
 
 </div>
