@@ -5,7 +5,7 @@
 <h1> Darshan Kushalkar </h1>
 
 <p>
-  <b>Fullstack developer </b> &nbsp;·&nbsp; <b>Open source contributor</b> &nbsp;·&nbsp; <b>Student @ IIIT DHARWAD</b>
+  <b>Web developer </b> &nbsp;·&nbsp; <b>Open source contributor</b> &nbsp;·&nbsp; <b>Student @ IIIT DHARWAD</b>
 </p>
 
 <p>
