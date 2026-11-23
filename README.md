@@ -28,7 +28,7 @@
 
 ### 👨‍💻 About Me
 
-Second-year B.Tech student passionate about AI, full-stack development & open source.
+Third-year B.Tech student passionate about AI, full-stack development & open source.
 Building projects, contributing to communities, and exploring real-world tech from day one.
 
 
